@@ -1,1 +1,1 @@
-# EaDCourse
+# EaD Course Application
